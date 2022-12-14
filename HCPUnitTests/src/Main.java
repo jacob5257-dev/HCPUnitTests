@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Main {
-    //Paste you code into the main class!
+    //Paste your code into the main class!
     public static void main(String[] args) {
         Scanner myObj = new Scanner(System.in);
         System.out.println("Input: ");
